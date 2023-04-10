@@ -104,7 +104,7 @@
          </font>
       </Label>
       <Hyperlink layoutX="78.0" layoutY="412.0" text="https://github.com/myjefferson" />
-      <Label layoutX="21.0" layoutY="18.0" text="JAY CALC" textFill="#e82c2c">
+      <Label layoutX="21.0" layoutY="18.0" text="JOECALK" textFill="#e82c2c">
          <font>
             <Font name="System Bold" size="13.0" />
          </font>

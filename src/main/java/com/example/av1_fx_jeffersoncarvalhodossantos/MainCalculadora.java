@@ -12,7 +12,7 @@ public class MainCalculadora extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(MainCalculadora.class.getResource("calculadora.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
-        stage.setTitle("JAY CALC!");
+        stage.setTitle("JOECALK - Calculadora");
         stage.setResizable(false);
         stage.setScene(scene);
         stage.show();

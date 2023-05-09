@@ -16,8 +16,6 @@ import java.util.Objects;
 public class CalculadoraController {
     @FXML private TextField textFieldResult;
     public void setTextField(String valueText) {
-        System.out.println(textFieldResult.getText());
-        System.out.println(textFieldResult.getText().length());
         if (textFieldResult.getText().length() == 1 && Objects.equals(textFieldResult.getText(), "0")){
             textFieldResult.setText("");
         }

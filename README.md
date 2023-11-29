@@ -1,4 +1,4 @@
-<h2> Calculadora JoeCalk qualquer coisa </h2>
+<h2> Calculadora JoeCalk </h2>
 <p> Projeto desenvolvido para aprendizado em Java | Java Swing | JavaFX </p>
 
 <h2>Confira imagens</h2>
